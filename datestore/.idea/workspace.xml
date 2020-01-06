@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef182c00-84ea-4c8b-9d03-77cb0959f63d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="User Data Source - jdbc:hive2://192.168.6.101:10000" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="User Data Source - jdbc:hive2://192.168.6.101:10000" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="User Data Source - jdbc:hive2://192.168.6.101:10000" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gmall: schema" type="31331dd0:HiveImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="datestore" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/flume-interceptor/src/main/java/com/atguigu/flume/interceptor/LogUtils.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="S:\developer\apache-maven-3.5.3\repository" />
+        <option name="mavenHome" value="S:/developer/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="S:\developer\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Uoldci5fzcayg1PPljWkVzEEhn" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mongo&#10;java.sql.Driver" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/jdbc-drivers/hive-jdbc-1.2.1-standalone.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.09708738" />
+    <property name="project.structure.side.proportion" value="0.10764265" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.atguigu.flume.interceptor" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\0830\IdeaProjects\datestore\dategenerate\src\main\resources" />
+      <recent name="D:\0830\IdeaProjects\datestore\src\main\java\com\atguigu\bean" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.flume.interceptor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\0830\IdeaProjects\datestore\dategenerate\src\main\java" />
+      <recent name="D:\0830\IdeaProjects\datestore\dategenerate" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LogUtilsTest.testValidateEvent">
+    <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.appclient.AppMain" />
+      <module name="datestore" />
+      <option name="PROGRAM_PARAMETERS" value="200 5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.appclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogUtilsTest.testValidateEvent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flume-interceptor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interceptor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interceptor" />
+      <option name="MAIN_CLASS_NAME" value="interceptor.LogUtilsTest" />
+      <option name="METHOD_NAME" value="testValidateEvent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogUtilsTest.testValidateStart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flume-interceptor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interceptor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interceptor" />
+      <option name="MAIN_CLASS_NAME" value="interceptor.LogUtilsTest" />
+      <option name="METHOD_NAME" value="testValidateStart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LogUtilsTest.testValidateEvent" />
+        <item itemvalue="JUnit.LogUtilsTest.testValidateStart" />
+        <item itemvalue="Application.AppMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:User Data Source - jdbc:hive2://192.168.6.101:10000" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef182c00-84ea-4c8b-9d03-77cb0959f63d" name="Default Changelist" comment="" />
+      <created>1576030916996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576030916996</updated>
+      <workItem from="1576030920852" duration="5279000" />
+      <workItem from="1576061763599" duration="1069000" />
+      <workItem from="1576066302284" duration="49000" />
+      <workItem from="1576120025161" duration="78000" />
+      <workItem from="1576120224039" duration="8000" />
+      <workItem from="1576122016260" duration="4517000" />
+      <workItem from="1576133983291" duration="1051000" />
+      <workItem from="1576135083009" duration="4271000" />
+      <workItem from="1576199168623" duration="9097000" />
+      <workItem from="1576237527332" duration="964000" />
+      <workItem from="1576240202126" duration="170000" />
+      <workItem from="1576241601421" duration="1494000" />
+      <workItem from="1576248638936" duration="30000" />
+      <workItem from="1576251395230" duration="942000" />
+      <workItem from="1576282812802" duration="2796000" />
+      <workItem from="1576422516133" duration="1699000" />
+      <workItem from="1576461585231" duration="6873000" />
+      <workItem from="1576475971742" duration="1569000" />
+      <workItem from="1576477844356" duration="739000" />
+      <workItem from="1576478613660" duration="3330000" />
+      <workItem from="1576483752242" duration="290000" />
+      <workItem from="1576484076076" duration="5396000" />
+      <workItem from="1576545160759" duration="1722000" />
+      <workItem from="1577067558126" duration="252000" />
+      <workItem from="1577067824611" duration="169000" />
+      <workItem from="1577068009220" duration="518000" />
+      <workItem from="1578312667816" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="90" key="#Notifications" timestamp="1576199191023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="90" key="#Notifications/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576199191023" />
+    <state x="452" y="90" key="#Plugins" timestamp="1577068087568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="90" key="#Plugins/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577068087568" />
+    <state x="452" y="0" width="1029" height="824" key="#Project_Structure" timestamp="1576483997869">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="362" y="0" width="1029" height="824" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1576425728503" />
+    <state x="452" y="0" width="1047" height="1040" key="#Project_Structure/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576483997869" />
+    <state x="279" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576546551176">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="279" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576546551176" />
+    <state x="2143" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.72.1536.832/0.0.1920.1040@1920.72.1536.832" timestamp="1576063411193" />
+    <state x="469" y="198" key="#com.intellij.ide.util.MemberChooser" timestamp="1576465441239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="469" y="198" key="#com.intellij.ide.util.MemberChooser/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576465441239" />
+    <state x="627" y="257" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576464114968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="257" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576464114968" />
+    <state x="297" y="421" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576236480410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="297" y="421" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576236480410" />
+    <state x="637" y="363" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1576236482841">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="363" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576236482841" />
+    <state x="2442" y="202" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1576131944589">
+      <screen x="1920" y="72" width="1536" height="832" />
+    </state>
+    <state x="2442" y="202" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.72.1536.832/0.0.1920.1040@1920.72.1536.832" timestamp="1576131944589" />
+    <state x="499" y="287" key="FileChooserDialogImpl" timestamp="1577068152886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="499" y="287" key="FileChooserDialogImpl/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577068152886" />
+    <state x="2319" y="302" key="FileChooserDialogImpl/1920.72.1536.832/0.0.1920.1040@1920.72.1536.832" timestamp="1576122082024" />
+    <state width="1280" height="233" key="GridCell.Tab.0.bottom" timestamp="1576547166352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="233" key="GridCell.Tab.0.bottom/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576547166352" />
+    <state width="1493" height="180" key="GridCell.Tab.0.bottom/1920.72.1536.832/0.0.1920.1040@1920.72.1536.832" timestamp="1576063541981" />
+    <state width="1280" height="233" key="GridCell.Tab.0.center" timestamp="1576547166352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="233" key="GridCell.Tab.0.center/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576547166352" />
+    <state width="1493" height="180" key="GridCell.Tab.0.center/1920.72.1536.832/0.0.1920.1040@1920.72.1536.832" timestamp="1576063541981" />
+    <state width="1280" height="233" key="GridCell.Tab.0.left" timestamp="1576547166352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="233" key="GridCell.Tab.0.left/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576547166352" />
+    <state width="1493" height="180" key="GridCell.Tab.0.left/1920.72.1536.832/0.0.1920.1040@1920.72.1536.832" timestamp="1576063541981" />
+    <state width="1280" height="233" key="GridCell.Tab.0.right" timestamp="1576547166352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="233" key="GridCell.Tab.0.right/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576547166352" />
+    <state width="1493" height="180" key="GridCell.Tab.0.right/1920.72.1536.832/0.0.1920.1040@1920.72.1536.832" timestamp="1576063541981" />
+    <state width="1866" height="294" key="GridCell.Tab.1.bottom" timestamp="1576238491629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1866" height="294" key="GridCell.Tab.1.bottom/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576238491629" />
+    <state width="1866" height="294" key="GridCell.Tab.1.center" timestamp="1576238491629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1866" height="294" key="GridCell.Tab.1.center/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576238491629" />
+    <state width="1866" height="294" key="GridCell.Tab.1.left" timestamp="1576238491629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1866" height="294" key="GridCell.Tab.1.left/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576238491629" />
+    <state width="1866" height="294" key="GridCell.Tab.1.right" timestamp="1576238491629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1866" height="294" key="GridCell.Tab.1.right/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576238491629" />
+    <state width="343" height="589" key="HiddenNamespacesPopup" timestamp="1576479469585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="343" height="589" key="HiddenNamespacesPopup/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576479469585" />
+    <state x="440" y="188" key="IDE.errors.dialog" timestamp="1576475066045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="188" key="IDE.errors.dialog/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576475066045" />
+    <state x="184" y="79" key="MergeDialog" timestamp="1576464884906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="79" key="MergeDialog/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576464884906" />
+    <state x="461" y="0" key="SettingsEditor" timestamp="1577067806546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="368" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576422665773" />
+    <state x="461" y="0" key="SettingsEditor/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577067806546" />
+    <state x="2122" y="72" key="SettingsEditor/1920.72.1536.832/0.0.1920.1040@1920.72.1536.832" timestamp="1576133961560" />
+    <state x="614" y="198" width="675" height="665" key="StructurePopup" timestamp="1576465509998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="198" width="675" height="665" key="StructurePopup/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576465509998" />
+    <state width="962" height="498" key="SwitcherDM" timestamp="1576545222365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="962" height="498" key="SwitcherDM/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576545222365" />
+    <state x="653" y="120" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1576464117322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="120" key="com.intellij.testIntegration.createTest.CreateTestDialog/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576464117322" />
+    <state x="533" y="170" width="854" height="700" key="find.popup" timestamp="1576206330681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="533" y="170" width="854" height="700" key="find.popup/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576206330681" />
+    <state x="13" y="24" key="new project wizard" timestamp="1577068228268">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1576422559007" />
+    <state x="13" y="24" key="new project wizard/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577068228268" />
+    <state x="2098" y="91" key="new project wizard/1920.72.1536.832/0.0.1920.1040@1920.72.1536.832" timestamp="1576122385126" />
+    <state x="539" y="191" width="840" height="848" key="search.everywhere.popup" timestamp="1577068054202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="191" width="840" height="848" key="search.everywhere.popup/1920.72.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577068054202" />
+    <state x="2351" y="225" width="672" height="678" key="search.everywhere.popup/1920.72.1536.832/0.0.1920.1040@1920.72.1536.832" timestamp="1576131526027" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/flume-interceptor/src/test/java/interceptor/LogUtilsTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="logContents[1]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/datestore$AppMain.ic" NAME="AppMain Coverage Results" MODIFIED="1576063231466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.atguigu.appclient.*</FILTER>
+    </SUITE>
+  </component>
+</project>

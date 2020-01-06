@@ -1,0 +1,75 @@
+package com.atguigu.chapter03
+
+object chapter03_add {
+  def main(args: Array[String]): Unit = {
+/*    var n1 : Byte = 127
+    var n2 : Byte = -128
+
+    var n5 : Int  = 10
+    println(n5)
+    var n6 = 23124151121313L
+    println(n6)
+    var n7 = 2.2345678912f
+    var n8 = 2.2345678912
+    println(n7)
+    println(n8)*/
+    var c1 : Char = 'a'
+    println(c1)
+    println("姓名\t年龄")
+    println("西门庆\n潘金莲")
+    println("c:\\岛国\\avi")
+    println("同学们都说:\"大海哥真菜\"")
+    val isResult : Boolean = false
+    val isResult2 : Boolean = true
+    def sayOK(): Unit ={
+
+    }
+    //打印sayOK的返回值
+    println(sayOK)
+    println(sayOK())
+    var cat = new Cat()
+    cat=null
+
+    def test(): Nothing = {
+      throw new Exception()
+    }
+    var n = 1 + 2.0
+    println(n)
+
+    val n2: Double = 1.0
+//    val n3: Int = n2
+    var n4 : Byte = 1
+//    var c1 : Char = n4
+    var n5 : Int = n4
+
+    var n6 : Byte = 1
+    val c2 : Char = 1
+//    var n : Short = n6 + c2
+//    val n7 : Short = 10 + 90
+    var num  : Int  = 2.7.toInt
+    var n1 : Int = 2.5.toInt
+    var r1 : Int = 10 * 3.5.toInt + 6 * 1.5.toInt
+    var r2 : Int = (10 * 3.5 + 6 * 1.5).toInt
+    println(s"r1 = $r1 , r2 = $r2")
+    var str1 : String = true + ""
+    var str2 : String  = 4.5 + ""
+    var str3 : String  = 100 + ""
+    var s1  : String  = "12"
+
+    var k1 : Byte  = s1.toByte
+    var k2 : Short  = s1.toShort
+    var k3 : Int = s1.toInt
+    var k4 : Long = s1.toLong
+
+
+
+
+
+  }
+
+
+
+}
+class Cat{
+
+}
